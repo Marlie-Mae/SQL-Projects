@@ -26,6 +26,7 @@ INSERT INTO user_details (username, first_name, last_name, gender, password, sta
 ('daniel53', 'mark', 'mike', 'Male', '299cbf7171ad1b2967408ed200b4e26c', 1),
 ('brooks80', 'morgan', 'maria', 'Female', 'aa736a35dc15934d67c0a999dccff8f6', 1),
 ('morgan65', 'paul', 'miller', 'Female', 'a28dca31f5aa5792e1cefd1dfd098569', 1);
+('marlie1234', 'marlie', 'lee', 'Female', 'abduhru2rhu2wjfbjbfwjbwjbjbjwjw', 1)
 
 -- Selecting data from the table
 SELECT * FROM user_details;
